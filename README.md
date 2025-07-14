@@ -15,6 +15,8 @@ And on the home page, view a list of all posts made so far, each with:
 
 ## Languages and Tools
 
-The program's logic was written predominantly in **Javascript**, using **HTML** integrated with **EJS** to create dynamic pages, and **CSS** to style these pages.
+The program's logic was written predominantly in **Javascript**, using **HTML** integrated with **EJS** to create dynamic pages, and **CSS** to style these pages. 
+
+The MVC architecture was used to structure the project to ensure greater organization and scalability. Therefore, the project was divided into folders such as **models, views, and controllers** to separate business logic, request processing, and the user interface.
 
 The **Express framework** was used to integrate the backend into the program, albeit in a more basic way. It allowed for page redirection using routes and GET and POST requests.
